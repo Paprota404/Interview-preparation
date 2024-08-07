@@ -2,3 +2,4 @@
 //Stack and heap and JIT
 //Clang, GCC etc.
 //DDD and web servers
+//Transfer protocols and browsers
