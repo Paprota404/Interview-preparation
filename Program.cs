@@ -5,6 +5,7 @@
 //Clang, GCC etc.
 //DDD and web servers
 //Transfer protocols and browsers
+//Composition
 
 class Program
 {
