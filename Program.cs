@@ -1,4 +1,5 @@
 ﻿using Delegate;
+using Reflections;
 
 //New gear
 //Stack and heap and JIT
@@ -22,5 +23,7 @@ class Program
         delegatesInstance.del(2, 3);
 
         Console.WriteLine(delegatesInstance.add(4,3));
+
+        Reflection.PrintType();
     }
 }
