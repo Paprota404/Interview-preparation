@@ -1,4 +1,5 @@
 ﻿using Delegate;
+using Reflections;
 
 //New gear
 //Stack and heap and JIT
@@ -8,6 +9,8 @@
 //Composition
 //Tasks
 //Threading
+//Docker and Vue
+//More Vue
 //SQL
 
 class Program
@@ -21,5 +24,7 @@ class Program
         delegatesInstance.del(2, 3);
 
         Console.WriteLine(delegatesInstance.add(4,3));
+
+        Reflection.PrintType();
     }
 }
