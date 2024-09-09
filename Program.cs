@@ -17,6 +17,7 @@ using Reflections;
 //Elastic
 //Fluent
 //Node
+//Mediator
 
 class Program
 {
