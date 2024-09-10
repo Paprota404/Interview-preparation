@@ -18,6 +18,7 @@ using Reflections;
 //Fluent
 //Node
 //Mediator
+//Predicate
 
 class Program
 {
